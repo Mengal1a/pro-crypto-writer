@@ -1,0 +1,69 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pro Crypto Writer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;600&display=swap" rel="stylesheet">
+    <style>
+        body {font-family: 'Nunito', sans-serif; margin: 0; padding: 0; background-color: #f4f4f4;}
+        header {background-color: #212529; color: #f8f9fa; padding: 20px 0; text-align: center;}
+        header h1 {margin: 0; font-size: 3em;}
+        .container {width: 90%; margin: 20px auto; max-width: 1200px;}
+        .card {background-color: #ffffff; padding: 20px; margin-bottom: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);}
+        h2 {color: #333333;}
+        p {color: #555555;}
+        footer {background-color: #212529; color: #f8f9fa; padding: 20px 0; text-align: center; margin-top: 20px;}
+        a {color: #f8f9fa; text-decoration: none;}
+        nav {margin-bottom: 20px;}
+        nav a {margin: 0 15px; color: #f8f9fa;}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pro Crypto Writer</h1>
+        <nav>
+            <a href="#about">About Me</a>
+            <a href="#portfolio">Portfolio</a>
+            <a href="#services">Services</a>
+            <a href="#blog">Blog</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header><div class="container">
+    <section id="about" class="card">
+        <h2>About Me</h2>
+        <p>Welcome to Pro Crypto Writer! I specialize in creating high-quality crypto content for blogs, websites, and businesses. With a deep understanding of the blockchain world, I help brands communicate their message clearly and effectively.</p>
+    </section>
+
+    <section id="portfolio" class="card">
+        <h2>Portfolio</h2>
+        <p>Explore my latest projects and published articles. Check back regularly for updates.</p>
+    </section>
+
+    <section id="services" class="card">
+        <h2>Services</h2>
+        <ul>
+            <li>Crypto Blog Writing</li>
+            <li>Whitepaper Creation</li>
+            <li>Technical Articles</li>
+            <li>Website Content</li>
+            <li>Press Releases</li>
+        </ul>
+    </section>
+
+    <section id="blog" class="card">
+        <h2>Blog</h2>
+        <p>Coming soon! Stay tuned for my latest insights into the world of cryptocurrency.</p>
+    </section>
+
+    <section id="contact" class="card">
+        <h2>Contact Me</h2>
+        <p>Interested in working together? Reach out via email or connect with me on social media.</p>
+    </section>
+</div>
+
+<footer>
+    <p>© 2025 Pro Crypto Writer. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
